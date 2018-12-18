@@ -37,7 +37,6 @@
     "sinon": "^1.17.7"
   },
   "dependencies": {
-    "debug": "^3.0.1",
-    "serialport": "^6.1.1"
+    "debug": "^3.0.1"
   }
 }
